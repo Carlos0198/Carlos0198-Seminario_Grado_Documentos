@@ -1,0 +1,49 @@
+-	Indemnización de perjuicios. Infracción a la Ley sobre Propiedad Intelectual. Titularidad de programas computacionales. (2013, 17 diciembre). jurischile. http://www.jurischile.com/2013/12/indemnizacion-de-perjuicios-infraccion.html
+-	Pãoblica, M. D. E. (1970, 2 octubre). Ley 17336 (02-oct-1970) M. de Educación Pública | Ley Chile. Biblioteca del Congreso Nacional de Chile. www.bcn.cl/leychile. https://www.bcn.cl/leychile/navegar?idNorma=28933
+-	Justicia, M. de. (1993, 7 junio). Ley 19223 (07-jun-1993) M. de Justicia | Ley Chile. Biblioteca del Congreso Nacional de Chile. www.bcn.cl/leychile. https://www.bcn.cl/leychile/navegar?idNorma=30590
+-	Biblioteca del Congreso Nacional. (1993, 7 junio). https://www.dipres.gob.cl/598/articles-51683_Otrasleyes_ley19223.pdf.
+-	Código de Comercio Artículo 424. (s. f.). https://leyes-cl.com/codigo_de_comercio/424.htm
+-	Presidencia, de la. (2019, 11 noviembre). Ley 21180 (11-nov-2019) M. Secretaría General de la Presidencia | Ley Chile. Biblioteca del Congreso Nacional de Chile. www.bcn.cl/leychile. https://www.bcn.cl/leychile/navegar?idNorma=1138479
+-	Pãoblica, M. D. E. (1970b, octubre 2). Ley 17336 (02-oct-1970) M. de Educación Pública | Ley Chile. Biblioteca del Congreso Nacional de Chile. www.bcn.cl/leychile. https://www.bcn.cl/leychile/navegar?idNorma=28933
+-	Palma, A. (2022, 14 noviembre). Modelo de Escritura Pública Sociedad por Acciones. Derecho-Chile. https://derecho-chile.cl/sociedad-por-acciones/
+-	Circular NÂ°46 del 04 de Septiembre del 2008. (s. f.). https://www.sii.cl/documentos/circulares/2008/circu46.htm
+-	Pyme, E. I. T. (2021, 19 diciembre). Sociedad por Acciones SpA - Constitución y modificaciones. Inicia Tu Pyme - Constitución y modificación de sociedades. Creación de empresas, formalización de negocios, contabilidad e imagen corporativa. https://iniciatupyme.cl/sociedad-por-acciones/
+-	Justicia, M. de. (1865, 23 noviembre). Código de Comercio (23-nov-1865) M. de Justicia | Ley Chile. Biblioteca del Congreso Nacional de Chile. www.bcn.cl/leychile. https://www.bcn.cl/leychile/navegar?idNorma=1974
+-	Biblioteca - artículos electrónicos. (s. f.). https://www.poderjudicialmichoacan.gob.mx/tribunalm/biblioteca/almadelia/Cap4.htm
+-	Concepción, D. (2018, 6 agosto). Ciberseguridad: ¿Es suficiente la actual legislación para evitar y sancionar delitos informáticos? Diario Concepción. https://www.diarioconcepcion.cl/ciudad/2018/08/06/ciberseguridad-es-suficiente-la-actual-legislacion-para-evitar-y-sancionar-delitos-informaticos.html
+-	Delitos informaticos - Apuntes de Ingeniería del Software | Docsity. (s. f.). https://www.docsity.com/es/delitos-informaticos-2-1/2820046/
+-	Justicia, M. de. (1874, 12 noviembre). Código Penal (12-nov-1874) M. de Justicia | Ley Chile. Biblioteca del Congreso Nacional de Chile. www.bcn.cl/leychile. https://www.bcn.cl/leychile/navegar?idNorma=1984
+-	Ley 20435 MODIFICA LA LEY N° 17.336 SOBRE PROPIEDAD INTELECTUAL MINISTERIO DE EDUCACIÓN. (2010, 23 abril). https://www.camvchile.cl/camv/site/docs/20210615/20210615174255/ley_20435_bcn.pdf.
+-	PALMA ORELLANA, J. C. (2010, octubre). RÉGIMEN JURÍDICO DEL SOFTWARE LIBRE EN CHILE Libertad, igualdad y fraternidad digital aplicados al desarrollo de la sociedad chilena.
+-	Factibilidad - Análisis de las distintas posiciones teóricas de: Administración, Proceso. (s. f.). https://1library.co/article/factibilidad-an%C3%A1lisis-distintas-posiciones-te%C3%B3ricas-administraci%C3%B3n-proceso.y4gexxvy.
+-	Hacienda, M. de. (2003, 30 julio). Ley 19886 (30-jul-2003) M. de Hacienda | Ley Chile. Biblioteca del Congreso Nacional de Chile. www.bcn.cl/leychile. https://www.bcn.cl/leychile/navegar?idNorma=213004
+-	Gonzalez, G. (2011, 9 abril). ANALISIS DE SOFTWARE. https://analsisdesoftware.blogspot.com/2011/04/ciclo-de-vida-scrum.html.
+-	Peña, R. (2022, 17 noviembre). Ciclo de vida scrum. https://analisissdesoftware.blogspot.com/2012/10/ciclo-de-vida-scrum.html
+-	Capítulo 6 GESTIÓN DE CAMBIOS - Metodología Gestión de Requerimientos. (s. f.). https://sites.google.com/site/metodologiareq/capitulo-vi
+-	Silva, D. da. (2021, 4 junio). Mejora continua de procesos: 7 pasos recomendados por ITIL V4. Zendesk MX. https://www.zendesk.com.mx/blog/mejora-continua-procesos/
+-	¿Por qué deberías usar un sistema de control de versiones si eres desarrollador? (2020, 5 febrero). Opentix: Partner Platinum Sage. https://www.opentix.es/sistema-de-control-de-versiones/
+-	IEEE-STD-830-1998 : ESPECIFICACIONES DE LOS REQUISITOS DEL  SOFTWARE. (s. f.). https://www.ctr.unican.es/asignaturas/is1/IEEE830_esp.pdf.
+-	Sutherland, J. & Cohn, M. (s. f.). SCRUM Y XP DESDE LAS TRINCHERAS Cómo hacemos Scrum. http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf.
+-	Sutherland, J. & Cohn, M. (s. f.). SCRUM Y XP DESDE LAS TRINCHERAS Cómo hacemos Scrum. http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf.
+-	ISO 8402. (s. f.). https://web.archive.org/web/20100225091633/http:/ver.megared.net.mx/%7Ejccz/iso8402.html
+-	Corella, I. P. (s. f.). Conceptos Básicos del Aseguramiento de la Calidad. https://www.slideshare.net/Isaac2709/conceptos-bsicos-del-aseguramiento-de-la-calidad
+-	Wiki Targeted (Entertainment). (s. f.). Wikia Calidadsoftware. https://calidadsoftwareunibague.fandom.com/es/wiki/Estandares_de_calidad_para_la_ingenieria_de_software
+-	ISO-9126. (2022, 17 noviembre). https://estandarescalidadsoftware.blogspot.com/2013/09/iso-9126_13.html
+-	ISO-9126 - Algoritmica y programacion 26.722.186. (s. f.). https://sites.google.com/site/algoritmoyprogramacion26722186/iso-9126
+-	Capítulo 6 GESTIÓN DE CAMBIOS - Metodología Gestión de Requerimientos. (s. f.-b). https://sites.google.com/site/metodologiareq/capitulo-vi
+-	5 softwares de control de versiones. (2020, 11 febrero). Drauta. https://www.drauta.com/5-softwares-de-control-de-versiones
+-	Just a moment. . . (s. f.). https://quizlet.com/726439487/acpoa-flash-cards/
+-	uniwebsidad. (s. f.). Diseño ágil con TDD. https://uniwebsidad.com/libros/tdd
+-	pmoinformatica.com. (s. f.). La Certificación Scrum Master Profesional (PSM). La Oficina de Proyectos de Informática. http://www.pmoinformatica.com/2018/01/certificacion-scrum-master-profesional.html
+-	TIPOS DE PRUEBA DE SOFTWARE (PRUEBAS DE VALIDACIÓN DEL SISTEMA A LA MEDIDA. . .. (s. f.). Coggle. https://coggle.it/diagram/XdeOma5A3SmVIo8b/t/tipos-de-prueba-de-software
+-	TIPOS DE PRUEBAS DE SOFTWARE. (s. f.). https://tareaspruebasoftware.blogspot.com/2013/08/prueba-unitaria-objetivo-de-la-prueba.html
+-	Quizizz — The world’s most engaging learning platform. (s. f.). https://quizizz.com/admin/quiz/5c9a708462d11d001b400fc5/tipos-de-pruebas-de-software
+-	PREFACIO DE LAS NORMAS DE AUDITORÍA  GENERALMENTE ACEPTADAS. (s. f.). https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fwww.oas.org%2Fjuridico%2Fspanish%2Fmesicic3_chl_sec101.doc&wdOrigin=BROWSELINK.
+-	8. Gestión de los Riesgos del Proyecto. (s. f.). La guia PMBOK. https://uacm123.weebly.com/8-gestioacuten-de-los-riesgos-del-proyecto.html
+-	uDocz. (2022, 17 noviembre). Guia Del Pmbok Sexta Edicion Español. https://www.udocz.com/apuntes/29624/guia-del-pmbok-sexta-edicion-espanol
+-	¿Qué es lo importante en una reunión de trabajo? (2021, 12 mayo). Forbes España. https://forbes.es/empresas/3261/que-es-lo-importante-en-una-reunion-de-trabajo/
+-	Manual ISO-9000. (s. f.-d). Google Books. https://books.google.cl/books/about/Manual_ISO_9000.html?id=TZwsoAEACAAJ
+-	GestiÃ3n de la calidad. (s. f.). Google Books. https://books.google.cl/books/about/Gesti%C3%B3n_de_la_calidad.html?id=2cP2SvNsDkEC
+-	ISO 29119, la futura norma para pruebas software (una norma para unificarlas a todas). (2012, 1 febrero). Javier Garzas. https://www.javiergarzas.com/2012/02/iso-29119.html
+-	Gestión de la calidad del software – Norma ISO 9126. (2015, 7 junio). gestion de la calidad del software - norma iso-9126. https://diplomadogestioncalidadsoftware2015.wordpress.com/calidad-software-iso-9126/
+-	Mrsa, E. (s. f.). ¿Qué es norma ISO 27001? 27001Academy. https://advisera.com/27001academy/es/que-es-iso-27001/
