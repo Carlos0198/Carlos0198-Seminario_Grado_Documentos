@@ -1,0 +1,62 @@
+backgrounds 
+
+event-bg-1-1		page-header-bg-1-1
+alto = 1401px		alto = 1042px
+ancho = 1920px		ancho = 1920px
+
+blog img 
+
+alto = 270px
+ancho = 370px
+
+blog img  (estas con las que estan arriba del Tags)
+
+alto = 90px
+ancho = 90px
+
+brand(logo-inicio)	logo(footer)
+
+alto = 193px		alto = 93px
+ancho = 180px		ancho = 190px
+
+collection
+
+alto = 460px
+ancho 340px
+
+event
+
+alto = 159px
+ancho = 159px
+
+exhibition
+
+alto = 320px
+ancho = 320px
+
+History
+
+alto = 500px
+ancho = 370px 
+
+main-slider
+
+alto = 675px
+ancho = 1920px
+
+resources
+
+alto = 610px
+ancho = 470px
+
+sharphes
+
+collection-bg-1-1 | cta-bg-1-1
+	
+alto = 965px	    alto = 470px
+ancho = 1920px      ancho = 1920px
+
+team 
+
+alto = 320px
+ancho = 320px
